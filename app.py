@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import openpyxl
 
 # Carregar o arquivo Excel corrigido by puc zaras
 file_path = 'LCK_Data.xlsx'
